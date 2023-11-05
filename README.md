@@ -5,6 +5,8 @@ CPH插件的汉化版
 
 本仓库使用GPL3.0许可证
 
+食用方法：先安装cph，再找到.vscode中cph扩展的文件夹，替换掉所有文件即可
+
 ------------
 
 # Competitive Programming Helper (cph)
